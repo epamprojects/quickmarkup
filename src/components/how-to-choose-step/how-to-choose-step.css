@@ -1,0 +1,30 @@
+
+/*how-to-choose-step*/
+
+.how-to-choose-step{
+    background: #f2f3f2;
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+}
+.how-to-choose-step-wrapper{
+    padding-top: 27px;
+    padding-bottom: 26px;
+    font-weight: bold;
+    background: white;
+    font-family: Arial;
+}
+.how-to-choose-step-number{
+    display: inline-block;
+    padding-left: 45px;
+    padding-right: 20px;
+    border-right: 2px solid #4c4c4c;
+    font-size: 23px;
+}
+.how-to-choose-step-title{
+    text-indent: 10px;
+    display: inline-block;
+    font-size: 25px
+}
+.how-to-choose-step-content-wrapper{
+    padding-top: 30px;
+}
