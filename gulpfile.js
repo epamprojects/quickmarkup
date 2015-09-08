@@ -16,7 +16,7 @@ var path = {
         'main_css' : componentVendor + '*_main.css',
         'midia_css' : componentVendor + '*_media.css',
         'main_sass' :  componentVendor + '*_main.scss',
-        'media_sass' :  componentVendor + '*._media.scss'
+        'media_sass' :  componentVendor + '*_media.scss'
     }
 };
 
