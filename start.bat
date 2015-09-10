@@ -8,7 +8,7 @@ call bower i
 
 
 echo '-------------------------open browser'
-"c:\program files\internet explorer\iexplore" "http://http://localhost:8000/src/"
+"c:\program files\internet explorer\iexplore" "http://localhost:8000/src/"
 
 echo '-------------------------gulp'
 call gulp
